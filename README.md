@@ -14,8 +14,7 @@
 - 🌱 Pronouns: Constant effort, cooperation, love of coding, striving to learn more. <br>
 - 💌 How to reach me: rmrady758@gmail.com
 
-<a href="https://www.github.com/mmehrab-pz" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mmehrab-pz?logo=github&style=for-the-badge&color=0891b2&labelColor=171717" /></a>
+
 # 💻 Tech Stack:
 
 <p align="left">
