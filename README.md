@@ -1,4 +1,6 @@
 <div id="header" align="center">
+  Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is RAZIEH
+  <br/>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjl3Mjh6ZWEybzViY3NjaDE1amI4eTNxZ2lnNThmb2RlY2M2bHM4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="60%"/>
 </div>
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="26px">, I'm Razieh Moradi</h1>
