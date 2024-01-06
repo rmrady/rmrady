@@ -40,7 +40,7 @@
 
  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B6RN0g2cPSWSS%2BekNBjq%2BnQ%3D%3D" target="_blank" rel="noreferrer"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="31" height="27"/></a>   
  <a href="https://instagram.com/_.razieh.m_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.razieh.m_" height="28" width="30"/></a>
- <a href="https://t.me/razieh...m.r target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="telegram" width="34" height="28"/></a>
+
  
 </p>
 <br> 
